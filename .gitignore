@@ -76,3 +76,19 @@ Vitis/cnnNetwork/Debug/src/weights.d
 Vitis/cnnNetwork/Debug/src/weights.o
 
 Vitis/cnnNetwork/Debug/Xilinx.spec
+
+Python/mnistSmall/venv/*
+
+Python/mnistSmall/data/*
+
+Python/mnistSmall/weights/*
+
+Python/mnistSmall/network/__pycache__/*
+
+
+Python/mnistSmall/network/ps_mathieu.py
+
+Python/mnistSmall/.idea/modules.xml
+
+Python/mnistSmall/.idea/*
+
